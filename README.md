@@ -1,6 +1,6 @@
 ## KK-a-tech
 
-![](https://raw.githubusercontent.com/KK-a-tech/KK-a-tech/output/github-contribution-grid-snake.svg)
+[![](https://raw.githubusercontent.com/KK-a-tech/KK-a-tech/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/KK-a-tech/KK-a-tech/output/github-contribution-grid-snake-dark.svg)
 
 ### 1.GitHub Stats
 ![GitHub Stats Card](https://github-readme-stats-wizlite.vercel.app/api?username=KK-a-tech&theme=transparent&include_all_commits=true)
