@@ -1,4 +1,7 @@
 ## KK-a-tech
+
+![](https://raw.githubusercontent.com/ユーザー名/リポジトリ名/output/github-contribution-grid-snake.svg)
+
 ### 1.GitHub Stats
 ![GitHub Stats Card](https://github-readme-stats-wizlite.vercel.app/api?username=KK-a-tech&theme=transparent&include_all_commits=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=KK-a-tech)](https://github.com/ryo-ma/github-profile-trophy)
