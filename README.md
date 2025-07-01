@@ -1,4 +1,4 @@
-# Hi! I'm KK-a-tech!
+# Hi! I'm Kento.S!
 
 ## 1.GitHub Stats
 
