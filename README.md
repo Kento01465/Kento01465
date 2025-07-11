@@ -2,11 +2,11 @@
 
 ## 1.GitHub Stats
 
-![GitHub Stats Card](https://github-readme-stats-wizlite.vercel.app/api?username=KK-a-tech&theme=transparent)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=KK-a-tech&show_icons=true&locale=en&layout=compact)
+![GitHub Stats Card](https://github-readme-stats-wizlite.vercel.app/api?username=Kento01465&theme=transparent)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Kento01465&show_icons=true&locale=en&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KK-a-tech)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://raw.githubusercontent.com/KK-a-tech/KK-a-tech/output/github-contribution-grid-snake.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kento01465)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://raw.githubusercontent.com/Kento01465/Kento01465/output/github-contribution-grid-snake.svg)
 
 ## 2.Languages and Tools
 
@@ -34,4 +34,4 @@
 
 ## 3.Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=KK-a-tech)
+![Profile Views](https://komarev.com/ghpvc/?username=Kento01465)
