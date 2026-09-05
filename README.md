@@ -2,13 +2,13 @@
 
 Software engineer based in Tokyo, Japan. Backend-focused, with full-stack experience spanning server-side and frontend development.
 
-[GitHub](https://github.com/Kento01465) · [Portfolio](https://kento01465.github.io/regex-generator/) · [Zenn](https://zenn.dev/shim_03248) · [Qiita](https://qiita.com/shim_03248)
+[GitHub](https://github.com/Kento01465) · [Portfolio](https://mogishiken.jp/) · [Zenn](https://zenn.dev/shim_03248) · [Qiita](https://qiita.com/shim_03248)
 
 ## About
 
 - About 2 years of experience as a software engineer
 - Backend: PHP (Laravel), Go
-- Infrastructure: Linux (Ubuntu, AlmaLinux)
+- Infrastructure: Linux (Ubuntu, AlmaLinux) 
 - Frontend: JavaScript (React, Vue)
 - CI/CD: Jenkins, GitHub Actions
 
@@ -25,6 +25,7 @@ Software engineer based in Tokyo, Japan. Backend-focused, with full-stack experi
 
 | Project | What it is | Tech |
 |---|---|---|
+| [PHP8 mock exam site](https://mogishiken.jp/) | Free mock exams for the PHP8 Certified Engineer (basic) exam, with study mode and timed exam mode | PHP (Laravel) |
 | regex-generator | A web tool for generating regular expressions | JavaScript |
 
 ## Writing
