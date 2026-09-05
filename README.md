@@ -17,7 +17,7 @@ Software engineer based in Tokyo, Japan. Backend-focused, with full-stack experi
 | Area | Focus |
 |---|---|
 | Backend | PHP (Laravel), Go |
-| Infrastructure | Sakura Cloud, Linux (Ubuntu, AlmaLinux) |
+| Infrastructure | Linux (Ubuntu, AlmaLinux) |
 | Frontend | JavaScript, React, Vue |
 | CI/CD | Jenkins, GitHub Actions |
 
